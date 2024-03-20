@@ -1,10 +1,12 @@
 # Ignore configuration files that may contain sensitive information.
+.htaccess
+items-assest
 
 # Ignore paths that contain user-generated content.
 
 
 # Ignore custom theme build artifacts
-items-assest
+
 
 #docroot/themes/custom/*/css
  
@@ -12,10 +14,9 @@ items-assest
  
 
 # OS X
-.DS_Store
  
 # Thumbnails
-._*
+
 
 # Files that might appear on external disk
  
