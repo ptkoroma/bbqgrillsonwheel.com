@@ -100,6 +100,18 @@
   #main-slide .carousel-caption {
     top: 32%;
   }
+  ##paypal-form-fields-container-WFFGAWFEFHE9Y{
+    max-width:480px !important;
+  }
+
+  .paypal-contnet {
+    background: #fff;
+    padding-left: 0px;
+    text-align: center;
+    padding-right: 0px;
+    padding-top: 0px;
+  }
+  
   #main-slide .carousel-item .carousel-caption .heading {
     font-size: 20px;
   }
@@ -158,6 +170,18 @@
   .section-title {
     font-size: 22px;
   }
+  ##paypal-form-fields-container-WFFGAWFEFHE9Y{
+    max-width:480px !important;
+  }
+
+  .paypal-contnet {
+    background: #fff;
+    padding-left: 0px;
+    text-align: center;
+    padding-right: 0px;
+    padding-top: 0px;
+  }
+
   .section-sub {
     font-size: 16px;
   }

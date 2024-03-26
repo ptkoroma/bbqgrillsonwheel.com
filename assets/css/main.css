@@ -601,6 +601,20 @@ a.back-to-top:hover, a.back-to-top:focus {
   width: 75%;
 }
 
+.paypal-contnet {
+  background: #fff;
+  padding-left: 200px;
+  text-align: center;
+  padding-right: 200px;
+  padding-top: 50px;
+}
+
+#paypal-form-fields-container-WFFGAWFEFHE9Y{
+  max-width: none !important;
+
+}
+
+
 .top-nav-collapse {
   background: #fff;
   z-index: 999999;
